@@ -6,7 +6,7 @@
   "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkmjmdkak85dHoVr5AHrsHKrtkaFKN77dT6oua3ZK8K1rz",
+      "publicKeyMultibase": "z6Mkpju8iwbfm5kNCY4CDMMYqyydfbugvrGxjqSt8vqWA1FY",
       "controller": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
       "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify#GVWaAaSYYIfZzpGQLC8CsDQP1RLZH1pW-VlsTDuTskM",
       "type": "Ed25519VerificationKey2020",
