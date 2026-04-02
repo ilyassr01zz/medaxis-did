@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "PrescriptionCredential": {
+      "@id": "https://ilyassr01zz.github.io/medaxis-did/contexts/prescription.json#PrescriptionCredential"
+    },
+    "prescriptionId": "schema:identifier",
+    "medication": "schema:name",
+    "dosage": "schema:dosage",
+    "doctorName": "schema:name",
+    "patientCNIE": "schema:identifier",
+    "expiryDate": "schema:expires",
+    "status": "schema:status"
+  }
+}
