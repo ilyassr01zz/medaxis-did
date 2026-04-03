@@ -1,4 +1,4 @@
-{
+
   "assertionMethod": [
     "did:web:ilyassr01zz.github.io:medaxis-did:certify"
   ],
@@ -6,9 +6,9 @@
   "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkmgrRVY2rCcU5G8oT7bKq8fKAkJNjfpACS64ovr5u4UhB",
+      "publicKeyMultibase": "z6Mkqv4QCBk5xX5Gj6BBYjLBWLMj7rQfoZ7dcrHTK5xtNPas",
       "controller": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
-      "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify#7mL6YavVT8Kw9Y4dhq8u7kK9CjQZCokH5e5YCiAmeqU",
+      "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify#uKO_9x0vTQdkWmxRG1Y_1qBSMaEbddLvGRkmyBhQ6e4",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
