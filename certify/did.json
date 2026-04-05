@@ -6,9 +6,9 @@
   "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkiEBAFVzSt1UH464HRmzkPxDQzsMB2vKbFa5z3Ju6oAnY",
+      "publicKeyMultibase": "z6MkgtiMsEbWgSa7kk33rYuoKHZbsJahEguBveQmYbDTkE5V",
       "controller": "did:web:ilyassr01zz.github.io:medaxis-did:certify",
-      "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify#VtUf2G7AtUoohJfe2KNCfhrSDJ_TX6bxyK3Ekrv1OWc",
+      "id": "did:web:ilyassr01zz.github.io:medaxis-did:certify#cQBiNaYRz_8MjeqBJi9rYljOSjxcYC438NzZirCdXQc",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
